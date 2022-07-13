@@ -64,37 +64,18 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD Mitsuri TO YOUR GROUP ➕️",url="t.me/Gabi_Braun_Robot?startgroup=true"),
+            text="🙃 Add Mitsuri to your Group 🙃", url="t.me/Hunter_Zoro_Robot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(
-              text="🔐 Command & Help", callback_data="help_back"),
-     
-    ],
-    [     InlineKeyboardButton(
-            text="🎦 H.S.A Group", url="https://telegram.dog/Hindisubsanimes"),
-    
+        InlineKeyboardButton(text="⚙ EST", url="https://t.me/est_official"),
+        InlineKeyboardButton(text="🎉 EST News", url="https://t.me/estanimes"),
+        InlineKeyboardButton(text="❗Updates", url="https://t.me/DevXAssociation"),
     ],
     [
-        InlineKeyboardButton(
-            text="📮 Update Channel", url="https://telegram.dog/EldianGabi_UpdateChannel"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/Gabi_Support_Log"),
-          
-
-
-InlineKeyboardButton(
-            text="🐱 SUPPORT", url="https://telegram.dog/GabiHelpSupport"
-        ),
-
-    ],
-    [
-        InlineKeyboardButton(
-                    text="🗄️ Source Code", url="https://github.com/Falco-Grice/GabiBraunRobot"
-        ),
-    ],
+        InlineKeyboardButton(text="🔐 Help and Commands", callback_data="help_back"),
+        
+   
+    ], 
 ]
 
 
