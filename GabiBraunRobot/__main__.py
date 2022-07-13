@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*────「Hey, I'm Mitsuri [🌸](https://telegra.ph/file/f63ce11f76db7f086af1f.jpg) 」────*
+────「*Hey, I'm Mitsuri* [🌸](https://telegra.ph/file/f63ce11f76db7f086af1f.jpg) 」────
 *×× I'm a Hashira! A Anime themed advance group management bot with a lot of advance Features! ××*
 ➖➖➖➖➖➖➖➖➖➖
 *×× Try The Help & Command Buttons Below To Know My Abilities ××*
