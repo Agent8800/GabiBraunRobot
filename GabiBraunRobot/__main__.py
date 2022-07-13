@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*────「Hey, I'm Mitsuri [🌸](https://telegra.ph/file/f63ce11f76db7f086af1f.jpg)」────*
+*────「Hey, I'm Mitsuri[🌸](https://telegra.ph/file/f63ce11f76db7f086af1f.jpg) 」────*
 *×× I'm a Hashira! A Anime themed advance group management bot with a lot of advance Features! ××*
 ➖➖➖➖➖➖➖➖➖➖
 *×× Try The Help & Command Buttons Below To Know My Abilities ××*
@@ -103,7 +103,7 @@ HELP_STRINGS = """
 I'm a Eldian and help admins manage their groups with Some Powerful Titans! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paytm](#) or by contacting @The_Ghost_Hunter\
+ You can support the project via [Paytm](#) or by contacting @asta_est\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
