@@ -70,3 +70,4 @@ ujson
 wget
 wikipedia==1.4.0
 zalgo-text
+pybase64
