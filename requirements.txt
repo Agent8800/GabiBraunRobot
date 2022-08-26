@@ -86,4 +86,4 @@ hurry.filesize
 PyYAML
 humanize
 python-rapidjson
-covid
+redis
